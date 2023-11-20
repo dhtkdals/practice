@@ -1,2 +1,6 @@
 Hello! My name is Sang Min Oh
 Kumoh National Institute of Technology.
+
+Computer Sciences
+C programming 
+Object-oriented programming
